@@ -1,0 +1,4 @@
+scheme:https
+Hostlocalhost:7273
+Path
+RequestBodyMicrosoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
