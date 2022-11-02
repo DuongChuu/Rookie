@@ -107,7 +107,7 @@ public class RookiesController : ControllerBase
 
     private ActionResult HandleException(Exception exception)
     {
-        
+   
 
         return StatusCode(500, exception);
     }
